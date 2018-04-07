@@ -6,9 +6,9 @@ Completed: March 1, 2018
 
 
 
-Link to blog post: [https://stokvis4.github.io/Third-Blog/]
+[Blog Post](https://stokvis4.github.io/Third-Blog/)
 
-Project repository: [github.com/stokvis4/projectFletcherGit](https://github.com/stokvis4/projectFletcherGit)
+[Repository](https://github.com/stokvis4/projectFletcherGit)
 
 
 ## Overview:
